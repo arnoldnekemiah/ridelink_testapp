@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147050348033",
+    "project_id": "ridelinktrial",
+    "storage_bucket": "ridelinktrial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147050348033:android:47babde3dc298965ce8a00",
+        "android_client_info": {
+          "package_name": "com.example.ridelinktrial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsXQBqRATFvM7d_UQeecFwAEXPGhv1Eck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
